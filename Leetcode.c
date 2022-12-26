@@ -15,7 +15,7 @@ void  chars(char letter[],char x, int n){
         }
     }
     if(flag==1){
-       printf("  LETTER IS %c\n ",letter[mid]);
+       printf("  LETTER iS %c\n ",letter[mid]);
     }
     else{
     printf("ceiling value is %c\n",letter[lower]);
