@@ -17,7 +17,7 @@ int Bin_ceil(int arr[],int x,int n){
         }
     }
     if(flag==1){
-       printf("elemnt is at %d\n ",mid);
+       printf("element is at %d\n ",mid);
     }
     else{
     printf("ceiling value is %d\n",arr[lower]);
